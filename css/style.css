@@ -1,0 +1,19 @@
+/* Created by: Ms Raffin
+ * Created on: Feb. 2022
+ * This CSS file defines the style for index.html 
+*/
+
+body {
+  background-color: DarkKhaki;
+}
+
+h1 {
+  background-color: rgb(199, 224, 31);
+  color: hsl(147, 50%, 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #eeff00;
+}
